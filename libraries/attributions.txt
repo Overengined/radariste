@@ -1,0 +1,2 @@
+loading-bar by loadingio, under an MIT license
+https://github.com/loadingio/loading-bar 

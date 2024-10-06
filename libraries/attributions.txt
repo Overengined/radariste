@@ -1,2 +1,8 @@
 loading-bar by loadingio, under an MIT license
 https://github.com/loadingio/loading-bar 
+
+gauge.min.js, under an MIT
+https://github.com/bernii/gauge.js
+
+three.js, under an MIT
+https://github.com/mrdoob/three.js
